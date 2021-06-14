@@ -9,9 +9,9 @@ Original file is located at
 ##BotMusk
 """
 
-pip install nltk
+# pip install nltk
 
-pip install newspaper3k
+# pip install newspaper3k
 
 """##Importing The Libraries"""
 
